@@ -6,6 +6,9 @@
 4. зарегистрироваться в [yandex.cloud](https://yandex.cloud) для русской озвучки
     - ввести [oauth-token ключ](https://yandex.cloud/ru/docs/iam/concepts/authorization/oauth-token)
     - и папку (когда зарегался, консоль будет открывать по ссылке https://console.yandex.cloud/folders/<КЛЮЧ ПАПКИ>)
+
+_Не тестировал если подключать только 1 озвучку из двух, могут быть ошибки_
+  
 5. Установить все python библиотеки из requirements.txt
 6. Установить [ffmpeg](https://www.ffmpeg.org/)
 7. запустить __main__.py
